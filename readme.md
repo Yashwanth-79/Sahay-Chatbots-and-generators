@@ -1,4 +1,5 @@
 SAHAY chatbot:
+
 ➡️ trained with OpenAi assistant and GPT3.5 turbo
 
 ➡️ trained with government of india and karnataka schemes 
@@ -16,6 +17,7 @@ SAHAY chatbot:
  use it from here 👉 : https://mediafiles.botpress.cloud/2c8d4316-c58b-4e76-889a-085a8c3c394b/webchat/bot.html
 
  Generators :
+ 
  ➡️ These are trained with above same models 
  
  ➡️ PDF files are fed to the bot 
